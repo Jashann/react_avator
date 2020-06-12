@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_avator/static/css/main.978d86d7.chunk.css",
+    "main.js": "/react_avator/static/js/main.25a8d542.chunk.js",
+    "main.js.map": "/react_avator/static/js/main.25a8d542.chunk.js.map",
+    "runtime-main.js": "/react_avator/static/js/runtime-main.17218d04.js",
+    "runtime-main.js.map": "/react_avator/static/js/runtime-main.17218d04.js.map",
+    "static/js/2.465df07d.chunk.js": "/react_avator/static/js/2.465df07d.chunk.js",
+    "static/js/2.465df07d.chunk.js.map": "/react_avator/static/js/2.465df07d.chunk.js.map",
+    "index.html": "/react_avator/index.html",
+    "precache-manifest.7cf519aee5be4be2e55b902af19090cf.js": "/react_avator/precache-manifest.7cf519aee5be4be2e55b902af19090cf.js",
+    "service-worker.js": "/react_avator/service-worker.js",
+    "static/css/main.978d86d7.chunk.css.map": "/react_avator/static/css/main.978d86d7.chunk.css.map",
+    "static/js/2.465df07d.chunk.js.LICENSE.txt": "/react_avator/static/js/2.465df07d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react_avator/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17218d04.js",
+    "static/js/2.465df07d.chunk.js",
+    "static/css/main.978d86d7.chunk.css",
+    "static/js/main.25a8d542.chunk.js"
+  ]
+}
